@@ -15,5 +15,5 @@ type one of _wsad_ keys and press enter. You can pass an argument in console and
 _And here screenshot how it's look like_ \
 ![screenshot](./screenshots/mazeGame1.png)
 
-_And win_ \
+_And win!_ \
 ![screenshot](./screenshots/mazeGame2.png)
